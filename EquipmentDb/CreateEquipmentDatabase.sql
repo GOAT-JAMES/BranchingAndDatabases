@@ -7,4 +7,3 @@ CREATE TABLE Equipment
 	,Price		smallmoney		NOT NULL
 )
 
--- Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=CompEquipment;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
